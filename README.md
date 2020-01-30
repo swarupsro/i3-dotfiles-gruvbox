@@ -17,7 +17,7 @@ This repository consists of configuration for any tools I use within my Manjaro 
     - [htop](https://github.com/hishamhm/htop) - An interactive text-mode process viewer.
     - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
     - [Wget](https://git.savannah.gnu.org/cgit/wget.git) - A free software package for retrieving files using HTTP, HTTPS, FTP, and FTPS.
-    - [Ubuntu Mono](https://github.com/scotu/ubuntu-mono-powerline) - Terminal font.
+    - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - Terminal and coding font.
 - GUI
     - [i3-gaps](https://github.com/Airblader/i3) - A tiling window manager.
     - [i3status](https://github.com/vivien/i3blocks) - A feed generator for text based status bars.
