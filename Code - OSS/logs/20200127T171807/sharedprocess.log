@@ -1,0 +1,14 @@
+[2020-01-27 17:18:11.525] [sharedprocess] [info] main {"machineId":"74ce42794c55357512341934088740d09412bd0c5f21546f7a1664762c7ef4b8","windowId":2}
+[2020-01-27 17:18:26.285] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2020-01-27 17:18:31.225] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox /tmp/3d18ff37-2944-466f-9a27-e3dfcdeb7bec
+[2020-01-27 17:18:31.301] [sharedprocess] [info] Extracted extension to /home/kbr/.vscode-oss/extensions/.jdinhlife.gruvbox-1.4.0: jdinhlife.gruvbox
+[2020-01-27 17:18:31.301] [sharedprocess] [info] Renamed to /home/kbr/.vscode-oss/extensions/jdinhlife.gruvbox-1.4.0
+[2020-01-27 17:18:31.302] [sharedprocess] [info] Installation completed. jdinhlife.gruvbox
+[2020-01-27 17:18:31.363] [sharedprocess] [info] Extensions installed successfully: jdinhlife.gruvbox
+[2020-01-27 17:18:35.045] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-01-27 17:18:43.308] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/22da7143-9d05-4831-b472-f27945c7e1db
+[2020-01-27 17:18:45.262] [sharedprocess] [info] Extracted extension to /home/kbr/.vscode-oss/extensions/.vscodevim.vim-1.12.4: vscodevim.vim
+[2020-01-27 17:18:45.262] [sharedprocess] [info] Renamed to /home/kbr/.vscode-oss/extensions/vscodevim.vim-1.12.4
+[2020-01-27 17:18:45.264] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-01-27 17:18:45.318] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2020-01-27 17:18:51.518] [sharedprocess] [info] Starting to clean up unused language packs.

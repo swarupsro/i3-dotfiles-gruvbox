@@ -1,0 +1,38 @@
+[2020-01-27 17:18:10.205] [exthost] [info] extension host started
+[2020-01-27 17:18:10.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-27 17:18:10.230] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-01-27 17:18:10.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-27 17:18:10.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-01-27 17:18:10.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-27 17:18:10.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-01-27 17:18:10.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-27 17:18:10.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-01-27 17:18:10.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-27 17:18:10.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-01-27 17:18:10.343] [exthost] [info] ExtensionService#_doActivateExtension auiworks.amvim {"startup":true,"extensionId":{"value":"auiworks.amvim","_lower":"auiworks.amvim"},"activationEvent":"*"}
+[2020-01-27 17:18:10.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kbr/.vscode-oss/extensions/auiworks.amvim-1.30.0/out/src/extension
+[2020-01-27 17:18:10.736] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-27 17:18:10.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kbr/.vscode-oss/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-27 17:18:10.893] [exthost] [info] ExtensionService#_doActivateExtension mtxr.sqltools {"startup":true,"extensionId":{"value":"mtxr.sqltools","_lower":"mtxr.sqltools"},"activationEvent":"*"}
+[2020-01-27 17:18:10.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kbr/.vscode-oss/extensions/mtxr.sqltools-0.21.6/extension.js
+[2020-01-27 17:18:10.966] [exthost] [info] eager extensions activated
+[2020-01-27 17:18:31.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-27 17:18:31.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-01-27 17:18:31.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-27 17:18:31.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-01-27 17:18:31.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-27 17:18:31.690] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-01-27 17:18:35.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-01-27 17:18:35.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-01-27 17:18:35.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-01-27 17:18:35.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-01-27 17:18:45.514] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":false,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-01-27 17:18:45.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kbr/.vscode-oss/extensions/vscodevim.vim-1.12.4/out/extension
+[2020-01-27 17:18:45.950] [exthost] [error] Activating extension vscodevim.vim failed due to an error:
+[2020-01-27 17:18:45.951] [exthost] [error] Error: command 'type' already exists
+	at v.registerCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:537:688)
+	at Object.registerCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:763:697)
+	at overrideCommand (/home/kbr/.vscode-oss/extensions/vscodevim.vim-1.12.4/out/extension.js:367:40)
+	at /home/kbr/.vscode-oss/extensions/vscodevim.vim-1.12.4/out/extension.js:241:9
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/kbr/.vscode-oss/extensions/vscodevim.vim-1.12.4/out/extension.js:5:58)

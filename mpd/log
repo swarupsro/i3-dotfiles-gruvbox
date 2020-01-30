@@ -1,0 +1,393 @@
+Jan 27 13:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 13:54 : exception: Failed to open '/home/kbr/.config/mpd/state': No such file or directory
+Jan 27 13:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 13:56 : client: [0] opened from 127.0.0.1:54444
+Jan 27 13:56 : client: [1] opened from 127.0.0.1:54450
+Jan 27 13:56 : client: [1] closed
+Jan 27 13:56 : client: [2] opened from 127.0.0.1:54458
+Jan 27 13:56 : client: [2] closed
+Jan 27 13:58 : inotify: music directory was removed - cannot continue to watch it
+Jan 27 14:13 : client: [3] opened from 127.0.0.1:54798
+Jan 27 14:13 : client: [3] closed
+Jan 27 14:14 : client: [4] opened from 127.0.0.1:54806
+Jan 27 14:14 : client: [4] closed
+Jan 27 14:19 : client: [5] opened from 127.0.0.1:54916
+Jan 27 14:19 : client: [5] closed
+Jan 27 14:19 : client: [6] opened from 127.0.0.1:54926
+Jan 27 14:19 : client: [6] closed
+Jan 27 14:28 : client: [7] opened from 127.0.0.1:55038
+Jan 27 14:28 : client: [7] closed
+Jan 27 14:28 : client: [8] opened from 127.0.0.1:55048
+Jan 27 14:28 : client: [8] closed
+Jan 27 14:29 : client: [9] opened from 127.0.0.1:55058
+Jan 27 14:29 : client: [9] closed
+Jan 27 14:32 : client: [10] opened from 127.0.0.1:55078
+Jan 27 14:32 : client: [10] closed
+Jan 27 14:32 : client: [11] opened from 127.0.0.1:55094
+Jan 27 14:32 : client: [11] closed
+Jan 27 14:34 : client: [12] opened from 127.0.0.1:55102
+Jan 27 14:34 : client: [12] closed
+Jan 27 14:35 : client: [13] opened from 127.0.0.1:55124
+Jan 27 14:35 : client: [13] closed
+Jan 27 14:36 : client: [14] opened from 127.0.0.1:55134
+Jan 27 14:36 : client: [14] closed
+Jan 27 14:38 : client: [15] opened from 127.0.0.1:55186
+Jan 27 14:38 : client: [15] closed
+Jan 27 14:38 : client: [16] opened from 127.0.0.1:55194
+Jan 27 14:38 : client: [16] closed
+Jan 27 14:40 : client: [17] opened from 127.0.0.1:55260
+Jan 27 14:40 : client: [17] closed
+Jan 27 14:40 : client: [18] opened from 127.0.0.1:55268
+Jan 27 14:40 : client: [18] closed
+Jan 27 14:42 : client: [19] opened from 127.0.0.1:55280
+Jan 27 14:42 : client: [19] closed
+Jan 27 14:42 : client: [20] opened from 127.0.0.1:55292
+Jan 27 14:42 : client: [20] closed
+Jan 27 14:44 : client: [21] opened from 127.0.0.1:55302
+Jan 27 14:44 : client: [21] closed
+Jan 27 14:44 : client: [22] opened from 127.0.0.1:55310
+Jan 27 14:44 : client: [22] closed
+Jan 27 14:45 : client: [23] opened from 127.0.0.1:55318
+Jan 27 14:45 : client: [23] closed
+Jan 27 14:45 : client: [24] opened from 127.0.0.1:55326
+Jan 27 14:45 : client: [24] closed
+Jan 27 14:47 : client: [25] opened from 127.0.0.1:55338
+Jan 27 14:47 : client: [25] closed
+Jan 27 14:49 : client: [26] opened from 127.0.0.1:55352
+Jan 27 14:49 : client: [26] closed
+Jan 27 14:52 : client: [27] opened from 127.0.0.1:55364
+Jan 27 14:52 : client: [27] closed
+Jan 27 14:52 : client: [28] opened from 127.0.0.1:55374
+Jan 27 14:52 : client: [28] closed
+Jan 27 14:55 : client: [29] opened from 127.0.0.1:55390
+Jan 27 14:55 : client: [29] closed
+Jan 27 14:56 : client: [30] opened from 127.0.0.1:55398
+Jan 27 14:56 : client: [30] closed
+Jan 27 14:57 : client: [31] opened from 127.0.0.1:55410
+Jan 27 14:57 : client: [31] closed
+Jan 27 15:11 : client: [32] opened from 127.0.0.1:56138
+Jan 27 15:11 : client: [32] closed
+Jan 27 15:16 : client: [33] opened from 127.0.0.1:56296
+Jan 27 15:16 : client: [33] closed
+Jan 27 15:16 : client: [34] opened from 127.0.0.1:56304
+Jan 27 15:16 : client: [34] closed
+Jan 27 15:17 : client: [35] opened from 127.0.0.1:56314
+Jan 27 15:17 : client: [35] closed
+Jan 27 15:18 : client: [36] opened from 127.0.0.1:56320
+Jan 27 15:18 : client: [36] closed
+Jan 27 15:18 : client: [37] opened from 127.0.0.1:56326
+Jan 27 15:18 : client: [37] closed
+Jan 27 15:18 : client: [38] opened from 127.0.0.1:56332
+Jan 27 15:18 : client: [38] closed
+Jan 27 15:21 : client: [39] opened from 127.0.0.1:56370
+Jan 27 15:21 : client: [39] closed
+Jan 27 15:23 : client: [40] opened from 127.0.0.1:56386
+Jan 27 15:23 : client: [40] closed
+Jan 27 15:24 : client: [41] opened from 127.0.0.1:56400
+Jan 27 15:24 : client: [41] closed
+Jan 27 15:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 15:25 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 15:25 : client: [0] opened from 127.0.0.1:49484
+Jan 27 15:25 : client: [0] closed
+Jan 27 15:25 : client: [1] opened from 127.0.0.1:49490
+Jan 27 15:25 : client: [1] closed
+Jan 27 15:31 : client: [2] opened from 127.0.0.1:49616
+Jan 27 15:31 : client: [2] closed
+Jan 27 15:32 : client: [3] opened from 127.0.0.1:49622
+Jan 27 15:32 : client: [3] closed
+Jan 27 15:32 : client: [4] opened from 127.0.0.1:49632
+Jan 27 15:32 : client: [4] closed
+Jan 27 15:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 15:33 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 15:33 : client: [0] opened from 127.0.0.1:44456
+Jan 27 15:33 : client: [0] closed
+Jan 27 15:33 : client: [1] opened from 127.0.0.1:44462
+Jan 27 15:33 : client: [2] opened from 127.0.0.1:44468
+Jan 27 15:33 : client: [2] closed
+Jan 27 15:46 : client: [3] opened from 127.0.0.1:44488
+Jan 27 15:46 : client: [3] closed
+Jan 27 15:46 : client: [4] opened from 127.0.0.1:44496
+Jan 27 15:46 : client: [4] closed
+Jan 27 15:47 : client: [5] opened from 127.0.0.1:44502
+Jan 27 15:47 : client: [5] closed
+Jan 27 15:48 : client: [6] opened from 127.0.0.1:44510
+Jan 27 15:48 : client: [6] closed
+Jan 27 15:48 : client: [7] opened from 127.0.0.1:44516
+Jan 27 15:48 : client: [7] closed
+Jan 27 15:48 : client: [8] opened from 127.0.0.1:44522
+Jan 27 15:48 : client: [8] closed
+Jan 27 16:00 : client: [9] opened from 127.0.0.1:44656
+Jan 27 16:00 : client: [9] closed
+Jan 27 16:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 16:01 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 16:01 : client: [0] opened from 127.0.0.1:51192
+Jan 27 16:01 : client: [0] closed
+Jan 27 16:20 : client: [1] opened from 127.0.0.1:51590
+Jan 27 16:20 : client: [1] closed
+Jan 27 16:20 : client: [2] opened from 127.0.0.1:51600
+Jan 27 16:20 : client: [2] closed
+Jan 27 16:21 : client: [3] opened from 127.0.0.1:51606
+Jan 27 16:21 : client: [3] closed
+Jan 27 16:23 : client: [4] opened from 127.0.0.1:51616
+Jan 27 16:23 : client: [4] closed
+Jan 27 16:23 : client: [5] opened from 127.0.0.1:51624
+Jan 27 16:23 : client: [5] closed
+Jan 27 16:23 : client: [6] opened from 127.0.0.1:51646
+Jan 27 16:23 : client: [6] closed
+Jan 27 16:24 : client: [7] opened from 127.0.0.1:51668
+Jan 27 16:24 : client: [7] closed
+Jan 27 16:27 : client: [8] opened from 127.0.0.1:51776
+Jan 27 16:27 : client: [8] closed
+Jan 27 16:27 : client: [9] opened from 127.0.0.1:51784
+Jan 27 16:27 : client: [9] closed
+Jan 27 16:34 : client: [10] opened from 127.0.0.1:51830
+Jan 27 16:34 : client: [10] closed
+Jan 27 16:36 : client: [11] opened from 127.0.0.1:51848
+Jan 27 16:36 : client: [11] closed
+Jan 27 16:36 : client: [12] opened from 127.0.0.1:51854
+Jan 27 16:36 : client: [12] closed
+Jan 27 16:37 : client: [13] opened from 127.0.0.1:51866
+Jan 27 16:37 : client: [13] closed
+Jan 27 16:38 : client: [14] opened from 127.0.0.1:51872
+Jan 27 16:38 : client: [14] closed
+Jan 27 16:40 : client: [15] opened from 127.0.0.1:51880
+Jan 27 16:40 : client: [15] closed
+Jan 27 16:40 : client: [16] opened from 127.0.0.1:51886
+Jan 27 16:40 : client: [16] closed
+Jan 27 16:41 : client: [17] opened from 127.0.0.1:51892
+Jan 27 16:41 : client: [17] closed
+Jan 27 16:41 : client: [18] opened from 127.0.0.1:51902
+Jan 27 16:41 : client: [18] closed
+Jan 27 16:41 : client: [19] opened from 127.0.0.1:51908
+Jan 27 16:41 : client: [19] closed
+Jan 27 16:42 : client: [20] opened from 127.0.0.1:51914
+Jan 27 16:42 : client: [20] closed
+Jan 27 16:42 : client: [21] opened from 127.0.0.1:51920
+Jan 27 16:42 : client: [21] closed
+Jan 27 16:42 : client: [22] opened from 127.0.0.1:51926
+Jan 27 16:42 : client: [22] closed
+Jan 27 16:42 : client: [23] opened from 127.0.0.1:51932
+Jan 27 16:42 : client: [23] closed
+Jan 27 16:43 : client: [24] opened from 127.0.0.1:51938
+Jan 27 16:43 : client: [24] closed
+Jan 27 16:48 : client: [25] opened from 127.0.0.1:52114
+Jan 27 16:48 : client: [25] closed
+Jan 27 16:48 : client: [26] opened from 127.0.0.1:52122
+Jan 27 16:48 : client: [26] closed
+Jan 27 16:49 : client: [27] opened from 127.0.0.1:52130
+Jan 27 16:49 : client: [27] closed
+Jan 27 16:51 : client: [28] opened from 127.0.0.1:52158
+Jan 27 16:51 : client: [28] closed
+Jan 27 16:51 : client: [29] opened from 127.0.0.1:52166
+Jan 27 16:51 : client: [29] closed
+Jan 27 16:52 : client: [30] opened from 127.0.0.1:52176
+Jan 27 16:52 : client: [30] closed
+Jan 27 16:52 : client: [31] opened from 127.0.0.1:52182
+Jan 27 16:52 : client: [31] closed
+Jan 27 16:52 : client: [32] opened from 127.0.0.1:52188
+Jan 27 16:52 : client: [32] closed
+Jan 27 16:52 : client: [33] opened from 127.0.0.1:52194
+Jan 27 16:52 : client: [33] closed
+Jan 27 16:53 : client: [34] opened from 127.0.0.1:52202
+Jan 27 16:53 : client: [34] closed
+Jan 27 17:13 : client: [35] opened from 127.0.0.1:52486
+Jan 27 17:13 : client: [35] closed
+Jan 27 17:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 17:25 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 17:25 : client: [0] opened from 127.0.0.1:35036
+Jan 27 17:25 : client: [1] opened from 127.0.0.1:35042
+Jan 27 17:25 : client: [1] closed
+Jan 27 17:25 : client: [2] opened from 127.0.0.1:35048
+Jan 27 17:25 : client: [2] closed
+Jan 27 17:33 : client: [3] opened from 127.0.0.1:35342
+Jan 27 17:33 : client: [3] closed
+Jan 27 17:33 : client: [4] opened from 127.0.0.1:35350
+Jan 27 17:33 : client: [4] closed
+Jan 27 17:33 : client: [5] opened from 127.0.0.1:35356
+Jan 27 17:33 : client: [5] closed
+Jan 27 17:33 : client: [6] opened from 127.0.0.1:35362
+Jan 27 17:33 : client: [6] closed
+Jan 27 17:34 : client: [7] opened from 127.0.0.1:35368
+Jan 27 17:34 : client: [7] closed
+Jan 27 17:34 : client: [8] opened from 127.0.0.1:35374
+Jan 27 17:34 : client: [8] closed
+Jan 27 17:34 : client: [9] opened from 127.0.0.1:35380
+Jan 27 17:34 : client: [9] closed
+Jan 27 17:34 : client: [10] opened from 127.0.0.1:35386
+Jan 27 17:34 : client: [10] closed
+Jan 27 17:35 : client: [11] opened from 127.0.0.1:35392
+Jan 27 17:35 : client: [11] closed
+Jan 27 17:35 : client: [12] opened from 127.0.0.1:35398
+Jan 27 17:35 : client: [12] closed
+Jan 27 17:35 : client: [13] opened from 127.0.0.1:35404
+Jan 27 17:35 : client: [13] closed
+Jan 27 17:35 : client: [14] opened from 127.0.0.1:35410
+Jan 27 17:35 : client: [14] closed
+Jan 27 17:36 : client: [15] opened from 127.0.0.1:35422
+Jan 27 17:36 : client: [15] closed
+Jan 27 17:37 : client: [16] opened from 127.0.0.1:35428
+Jan 27 17:37 : client: [16] closed
+Jan 27 17:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 17:38 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 17:38 : client: [0] opened from 127.0.0.1:35472
+Jan 27 17:38 : client: [0] closed
+Jan 27 18:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 18:05 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 18:05 : client: [0] opened from 127.0.0.1:39742
+Jan 27 18:05 : client: [0] closed
+Jan 27 18:17 : client: [1] opened from 127.0.0.1:39998
+Jan 27 18:17 : client: [1] closed
+Jan 27 18:18 : client: [2] opened from 127.0.0.1:40006
+Jan 27 18:18 : client: [2] closed
+Jan 27 18:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 18:30 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 18:30 : client: [0] opened from 127.0.0.1:37594
+Jan 27 18:30 : client: [1] opened from 127.0.0.1:37600
+Jan 27 18:30 : client: [1] closed
+Jan 27 18:30 : client: [2] opened from 127.0.0.1:37606
+Jan 27 18:30 : client: [2] closed
+Jan 27 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 18:39 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 18:41 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 18:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 18:42 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 18:42 : client: [0] opened from 127.0.0.1:37888
+Jan 27 18:42 : client: [0] closed
+Jan 27 18:42 : client: [1] opened from 127.0.0.1:37894
+Jan 27 18:42 : client: [1] closed
+Jan 27 22:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 22:01 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 27 22:01 : client: [0] opened from 127.0.0.1:56078
+Jan 27 22:01 : client: [0] closed
+Jan 27 22:01 : client: [1] opened from 127.0.0.1:56084
+Jan 27 22:01 : client: [2] opened from 127.0.0.1:56090
+Jan 27 22:01 : client: [2] closed
+Jan 27 22:38 : client: [3] opened from 127.0.0.1:56096
+Jan 27 22:38 : client: [3] closed
+Jan 27 22:38 : client: [4] opened from 127.0.0.1:56102
+Jan 27 22:38 : client: [4] closed
+Jan 27 22:40 : client: [5] opened from 127.0.0.1:56108
+Jan 27 22:40 : client: [5] closed
+Jan 27 22:41 : client: [6] opened from 127.0.0.1:56114
+Jan 27 22:41 : client: [6] closed
+Jan 27 22:42 : client: [7] opened from 127.0.0.1:56120
+Jan 27 22:42 : client: [7] closed
+Jan 27 22:42 : client: [8] opened from 127.0.0.1:56126
+Jan 27 22:42 : client: [8] closed
+Jan 27 22:42 : client: [9] opened from 127.0.0.1:56132
+Jan 27 22:42 : client: [9] closed
+Jan 27 22:43 : client: [10] opened from 127.0.0.1:56138
+Jan 27 22:43 : client: [10] closed
+Jan 27 23:40 : client: [11] opened from 127.0.0.1:56144
+Jan 27 23:40 : client: [11] closed
+Jan 28 22:21 : client: [12] opened from 127.0.0.1:56150
+Jan 28 22:21 : client: [12] closed
+Jan 29 10:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 10:18 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 29 10:18 : client: [0] opened from 127.0.0.1:51548
+Jan 29 10:18 : client: [0] closed
+Jan 29 10:28 : client: [1] opened from 127.0.0.1:51554
+Jan 29 10:28 : client: [1] closed
+Jan 29 10:30 : client: [2] opened from 127.0.0.1:51560
+Jan 29 10:30 : client: [2] closed
+Jan 29 10:35 : client: [3] opened from 127.0.0.1:51566
+Jan 29 10:35 : client: [3] closed
+Jan 29 10:35 : client: [4] opened from 127.0.0.1:51572
+Jan 29 10:35 : client: [4] closed
+Jan 29 10:36 : client: [5] opened from 127.0.0.1:51578
+Jan 29 10:36 : client: [5] closed
+Jan 29 10:38 : client: [6] opened from 127.0.0.1:51584
+Jan 29 10:38 : client: [6] closed
+Jan 29 10:38 : client: [7] opened from 127.0.0.1:51590
+Jan 29 10:38 : client: [7] closed
+Jan 29 10:39 : client: [8] opened from 127.0.0.1:51596
+Jan 29 10:39 : client: [8] closed
+Jan 29 10:39 : client: [9] opened from 127.0.0.1:51602
+Jan 29 10:39 : client: [9] closed
+Jan 29 10:39 : client: [10] opened from 127.0.0.1:51608
+Jan 29 10:39 : client: [10] closed
+Jan 29 10:39 : client: [11] opened from 127.0.0.1:51614
+Jan 29 10:39 : client: [11] closed
+Jan 29 10:39 : client: [12] opened from 127.0.0.1:51620
+Jan 29 10:39 : client: [12] closed
+Jan 29 10:39 : client: [13] opened from 127.0.0.1:51626
+Jan 29 10:39 : client: [13] closed
+Jan 29 10:40 : client: [14] opened from 127.0.0.1:51632
+Jan 29 10:40 : client: [14] closed
+Jan 29 10:40 : client: [15] opened from 127.0.0.1:51638
+Jan 29 10:40 : exception: Failed to access /home/kbr/Music: No such file or directory
+Jan 29 10:40 : client: [15] closed
+Jan 29 10:41 : client: [16] opened from 127.0.0.1:51644
+Jan 29 10:41 : client: [16] closed
+Jan 29 12:33 : client: [17] opened from 127.0.0.1:51650
+Jan 29 12:33 : client: [17] closed
+Jan 29 12:34 : client: [18] opened from 127.0.0.1:51656
+Jan 29 12:34 : client: [18] closed
+Jan 29 12:35 : client: [19] opened from 127.0.0.1:51662
+Jan 29 12:35 : client: [19] closed
+Jan 29 12:37 : client: [20] opened from 127.0.0.1:51668
+Jan 29 12:37 : client: [20] closed
+Jan 29 12:40 : client: [21] opened from 127.0.0.1:51674
+Jan 29 12:40 : client: [21] closed
+Jan 29 12:40 : client: [22] opened from 127.0.0.1:51680
+Jan 29 12:40 : client: [22] closed
+Jan 29 12:41 : client: [23] opened from 127.0.0.1:51686
+Jan 29 12:41 : client: [23] closed
+Jan 29 12:44 : client: [24] opened from 127.0.0.1:51692
+Jan 29 12:44 : client: [24] closed
+Jan 29 12:44 : client: [25] opened from 127.0.0.1:51698
+Jan 29 12:44 : client: [25] closed
+Jan 29 12:44 : client: [26] opened from 127.0.0.1:51704
+Jan 29 12:44 : client: [26] closed
+Jan 29 12:45 : client: [27] opened from 127.0.0.1:51710
+Jan 29 12:45 : client: [27] closed
+Jan 29 12:45 : client: [28] opened from 127.0.0.1:51716
+Jan 29 12:45 : client: [28] closed
+Jan 29 12:45 : client: [29] opened from 127.0.0.1:51722
+Jan 29 12:45 : client: [29] closed
+Jan 29 12:47 : client: [30] opened from 127.0.0.1:51728
+Jan 29 12:47 : client: [30] closed
+Jan 29 12:49 : client: [31] opened from 127.0.0.1:51734
+Jan 29 12:49 : client: [31] closed
+Jan 29 12:51 : client: [32] opened from 127.0.0.1:51740
+Jan 29 12:51 : client: [32] closed
+Jan 29 12:52 : client: [33] opened from 127.0.0.1:51746
+Jan 29 12:52 : client: [33] closed
+Jan 29 12:57 : client: [34] opened from 127.0.0.1:51752
+Jan 29 12:57 : client: [34] closed
+Jan 29 13:03 : client: [35] opened from 127.0.0.1:51758
+Jan 29 13:03 : client: [35] closed
+Jan 29 13:05 : client: [36] opened from 127.0.0.1:51764
+Jan 29 13:05 : client: [36] closed
+Jan 29 13:06 : client: [37] opened from 127.0.0.1:51770
+Jan 29 13:06 : client: [37] closed
+Jan 29 13:07 : client: [38] opened from 127.0.0.1:51776
+Jan 29 13:07 : client: [38] closed
+Jan 29 13:07 : client: [39] opened from 127.0.0.1:51782
+Jan 29 13:07 : client: [39] closed
+Jan 29 13:10 : client: [40] opened from 127.0.0.1:51788
+Jan 29 13:10 : client: [40] closed
+Jan 29 13:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 13:14 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 29 13:14 : client: [0] opened from 127.0.0.1:39624
+Jan 29 13:14 : client: [1] opened from 127.0.0.1:39630
+Jan 29 13:14 : client: [1] closed
+Jan 29 13:14 : client: [2] opened from 127.0.0.1:39636
+Jan 29 13:14 : client: [2] closed
+Jan 29 13:22 : client: [3] opened from 127.0.0.1:39642
+Jan 29 13:22 : client: [3] closed
+Jan 29 13:22 : client: [4] opened from 127.0.0.1:39648
+Jan 29 13:22 : client: [4] closed
+Jan 29 13:23 : client: [5] opened from 127.0.0.1:39654
+Jan 29 13:23 : client: [5] closed
+Jan 29 13:23 : client: [6] opened from 127.0.0.1:39660
+Jan 29 13:23 : client: [6] closed
+Jan 29 13:24 : client: [7] opened from 127.0.0.1:39666
+Jan 29 13:24 : client: [7] closed
+Jan 29 13:24 : client: [8] opened from 127.0.0.1:39672
+Jan 29 13:24 : client: [8] closed
+Jan 29 13:24 : client: [9] opened from 127.0.0.1:39678
+Jan 29 13:24 : client: [9] closed
+Jan 29 13:25 : client: [10] opened from 127.0.0.1:39684
+Jan 29 13:25 : client: [10] closed

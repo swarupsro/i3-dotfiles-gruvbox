@@ -1,0 +1,7 @@
+2020/01/30-08:46:27.825 123be Recovering log #3
+2020/01/30-08:46:28.141 123be Level-0 table #5: started
+2020/01/30-08:46:28.291 123be Level-0 table #5: 2771043 bytes OK
+2020/01/30-08:46:28.297 123be Recovering log #20
+2020/01/30-08:46:28.417 123be Delete type=0 #3
+2020/01/30-08:46:28.417 123be Delete type=3 #2
+2020/01/30-08:46:28.417 123be Delete type=0 #20

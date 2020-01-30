@@ -1,0 +1,6 @@
+2020/01/30-08:46:27.878 12431 Reusing MANIFEST /home/kbr/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/30-08:46:27.878 12431 Recovering log #17
+2020/01/30-08:46:27.879 12431 Reusing old log /home/kbr/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000017.log 
+2020/01/30-08:47:01.793 12649 Level-0 table #21: started
+2020/01/30-08:47:01.840 12649 Level-0 table #21: 23458 bytes OK
+2020/01/30-08:47:01.879 12649 Delete type=0 #17
