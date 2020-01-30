@@ -26,7 +26,7 @@ This repository consists of configuration for any tools I use within my Manjaro 
     - [Dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon.
     - [Compton](https://github.com/yshui/compton) (Fork) - A compositor for X11.
     - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, GPU-accelerated terminal emulator.
-    - [Matcha Theme](https://github.com/vinceliuice/matcha) - A flat theme for GTK 3, GTK 2, and GNOME Shell.
+    - [Pop_OS Theme](https://github.com/pop-os/gtk-theme) - A flat theme for GTK 3, GTK 2, and GNOME Shell.
     - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - An open source Freedesktop icon theme and inspired by Material Design.
     - [Zathura](https://github.com/pwmt/zathura) - Highly customizable, functional, and a minimalist document viewer
         - [zathura-pdf-mupdf](https://github.com/pwmt/zathura-pdf-mupdf) -  adds PDF support to zathura by using the mupdf
